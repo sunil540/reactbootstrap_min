@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactbootstrap_min/static/css/main.07395d9e.css",
+    "main.js": "/reactbootstrap_min/static/js/main.2c9fe325.js",
+    "static/media/og.png": "/reactbootstrap_min/static/media/og.3afd77cc810ea91abc37.png",
+    "static/media/about.jpg": "/reactbootstrap_min/static/media/about.9d30bfb916ce85d19b1d.jpg",
+    "static/media/1.jpg": "/reactbootstrap_min/static/media/1.ec4eda1fc9c909283901.jpg",
+    "static/media/2.jpg": "/reactbootstrap_min/static/media/2.ec4eda1fc9c909283901.jpg",
+    "static/media/3.jpg": "/reactbootstrap_min/static/media/3.ec4eda1fc9c909283901.jpg",
+    "static/media/4.jpg": "/reactbootstrap_min/static/media/4.ec4eda1fc9c909283901.jpg",
+    "static/media/5.jpg": "/reactbootstrap_min/static/media/5.ec4eda1fc9c909283901.jpg",
+    "static/media/6.jpg": "/reactbootstrap_min/static/media/6.ec4eda1fc9c909283901.jpg",
+    "index.html": "/reactbootstrap_min/index.html",
+    "main.07395d9e.css.map": "/reactbootstrap_min/static/css/main.07395d9e.css.map",
+    "main.2c9fe325.js.map": "/reactbootstrap_min/static/js/main.2c9fe325.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07395d9e.css",
+    "static/js/main.2c9fe325.js"
+  ]
+}
